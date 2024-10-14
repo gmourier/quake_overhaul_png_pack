@@ -1,6 +1,6 @@
 # Quake Overhaul PNG Pack
 
-PNG converted textures contained in .wad files from the [WDU's Quake WAD Overhaul Project](https://valvedev.info/tools/quake-wad-overhaul-project/).
+PNG converted textures contained in .wad files from the [VDU's Quake WAD Overhaul Project](https://valvedev.info/tools/quake-wad-overhaul-project/).
 
 ## What's included?
 
@@ -11,7 +11,7 @@ PNG converted textures contained in .wad files from the [WDU's Quake WAD Overhau
 - quake_misc folder-contains png textures from the misc.wad
 - quake_runic folder-contains png textures from the runic.wad
 
-## About WDU's Quake WAD Overhaul Project
+## About VDU's Quake WAD Overhaul Project
 
 The pack features every texture featured in the original build of Quake, Mission Pack 1: Scourge of Armagon, Mission Pack 2: Dissolution of Eternity, Mission Pack 3: Abyss of Pandemonium, and many id-sourced textures that were never used in the original maps, lifted from the [original texture sources](https://valvedev.info/tools/quake-wad-overhaul-project/city5_source.png). Duplicates were weeded out, and every texture has been renamed and re-sorted into WADs of each one of the game's texture themes.
 
